@@ -1,0 +1,17 @@
+detours微软官方介绍页/源码下载页
+https://www.microsoft.com/en-us/download/details.aspx?id=52586
+https://www.microsoft.com/en-us/research/project/detours/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fdetours%2F
+
+源码下载地址
+1. https://www.microsoft.com/en-us/download/confirmation.aspx?id=52586
+2. https://github.com/Microsoft/Detours
+最新版本3.0
+
+使用nmake自行编译x86和x64版本。
+参考文档：
+https://blog.csdn.net/faithzzf/article/details/53488542
+
+demo工程已经编译了这两个版本，存放在
+Detour\lib\x64和Detour\lib\x86目录下
+对应的头文件在
+Detour\include
